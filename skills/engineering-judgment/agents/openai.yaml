@@ -1,0 +1,7 @@
+interface:
+  display_name: "Engineering Judgment"
+  short_description: "Reason about design, migration, cost, and operations"
+  default_prompt: "Use $engineering-judgment to evaluate this engineering decision and recommend a practical next step."
+
+policy:
+  allow_implicit_invocation: true
